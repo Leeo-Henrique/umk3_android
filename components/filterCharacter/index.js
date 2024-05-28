@@ -18,9 +18,7 @@ const FilterCharacter = ({ setChars, data, theme}) => {
   };
   
   return (
-    <Container 
-    // style={Container.view}
-    >
+    <Container >
       <TextInput
         theme={theme}
         placeholderTextColor={theme === 'dark'? "white": 'black'}

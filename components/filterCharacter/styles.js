@@ -25,14 +25,10 @@ export const ClearSearch = styled.TouchableHighlight`
   width: 12%;
   justify-content: center;
   align-items: center;
-  `;
+`;
 
 export const Container = styled.View`
   display: flex;
-  width: 100%;
   flex-direction: row;
   justify-content: center;
-  
-`
-
-
+`;

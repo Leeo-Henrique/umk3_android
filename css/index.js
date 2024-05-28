@@ -20,8 +20,8 @@ export const TextThemed = styled.Text`
 export const Container = styled.View`
   flex: 1;
   background-color: ${(props) => (props.theme === "dark" ? black : white)};
-  align-items: center;
-  justify-content: center;
+  /* align-items: center; */
+  /* justify-content: center; */
 `;
 
 export const Logo = styled.Image`

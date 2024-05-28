@@ -11,13 +11,14 @@ const RenderCharacter = ({ data, controlStyle = "snes", theme }) => {
     replaceToRightButtons(data, controlStyle);
   }, [data]);
 
-  const { width, height } = Dimensions.get("window");
 
+  const { width, height } = Dimensions.get("window");
+  
   return (
     <Container width={width}>
-      <Image style={Card.image} source={imagens[name]}/>
+      <Image style={Card.image} source={imagens[name]} />
       <TextChar theme={theme}>{data.name}</TextChar>
-
+      
       <SpecialTexts theme={theme}>Especiais</SpecialTexts>
       <FlatList
         data={data.moveList}
@@ -36,7 +37,7 @@ const RenderCharacter = ({ data, controlStyle = "snes", theme }) => {
       <FlatList
         data={data.combos}
         renderItem={({ item }) => (
-          <View >
+          <View>
             <MovesChar theme={theme}>
               {" "}
               {item.name} {item.combination}
