@@ -23,7 +23,7 @@ export default function Home() {
     <Container height={screenHeight} theme={theme}>
       <TouchableOpacity onPress={goToCharacters}>
         <View>
-          <Image style={{width:150,height:150}} source={require("../../assets/personagens/kabal.png")} />
+          <Image style={{width:150,height:150}} source={require("../../assets/characters/kabal.png")} />
           <TextThemed style={{textAlign:"center"}}theme={theme}>Personagens</TextThemed>
         </View>
       </TouchableOpacity>

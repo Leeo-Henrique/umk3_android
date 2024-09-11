@@ -2,7 +2,7 @@
   "moves": [
     {
       "name": "Human Smoke",
-      "image": "./personagens/humansmoke.png",
+      "image": "./characters/humansmoke.png",
       "moveList": [
         { "combination": "←,Y,X,L,R", "name": "Smoke & Manter pressionado:" },
         { "combination": "←,←,B", "name": "Gancho:" },
@@ -22,7 +22,7 @@
     },
     {
       "name": "Cyrax",
-      "image": "./personagens/cyrax.png",
+      "image": "./characters/cyrax.png",
       "moveList": [
         { "combination": "Segure A, aperte →,→,X", "name": "Granada rápida" },
         { "combination": "Segure A, aperte ←,←,X ", "name": "Granada lenta:" },
@@ -46,7 +46,7 @@
     },
     {
       "name": "Sektor",
-      "image": "./personagens/sektor.png",
+      "image": "./characters/sektor.png",
       "moveList": [
         { "combination": "→,→,B ", "name": "Míssil:" },
         { "combination": " →,↓,←,Y ", "name": "Míssil rastreador: " },
@@ -68,7 +68,7 @@
     },
     {
       "name": "Smoke",
-      "image": "./personagens/smoke.png",
+      "image": "./characters/smoke.png",
       "moveList": [
         { "combination": "←,←,B  ", "name": "Tridente:" },
         { "combination": "→,→,A  ", "name": "Teleporte: " },
@@ -90,7 +90,7 @@
     },
     {
       "name": "Kabal",
-      "image": "./personagens/kabal.png",
+      "image": "./characters/kabal.png",
       "moveList": [
         { "combination": "←,→,A ", "name": "Spin:" },
         { "combination": "←,←,Y  ", "name": "Bola de fogo: " },
@@ -112,7 +112,7 @@
     },
     {
       "name": "Ermac ",
-      "image": "./personagens/ermac.png",
+      "image": "./characters/ermac.png",
       "moveList": [
         { "combination": "↓,←,B  ", "name": "Bola de energia: " },
         { "combination": "↓,←,Y  ", "name": "Teleporte: " },
@@ -133,7 +133,7 @@
       ]
     },{
       "name": "Jade ",
-      "image": "./personagens/jade.png",
+      "image": "./characters/jade.png",
       "moveList": [
         { "combination": "←,→,Y", "name": "Bumerangue alto: " },
         { "combination": "←,→,B", "name": "Bumerangue reto: " },
@@ -157,7 +157,7 @@
       ]
     },{
       "name": "Jax ",
-      "image": "./personagens/jax.png",
+      "image": "./characters/jax.png",
       "moveList": [
         { "combination": "←,→,Y", "name": "Bola de fogo:" },
         { "combination": "→,→,←,←,Y ", "name": "Dupla bola de fogo:" },
@@ -180,7 +180,7 @@
       ]
     },{
       "name": "Kano ",
-      "image": "./personagens/kano.png",
+      "image": "./characters/kano.png",
       "moveList": [
         { "combination": "↓,←,Y ", "name": "Arremesso de lâmina:" },
         { "combination": "↓,→,Y  ", "name": "Corte de lâmina:" },
@@ -204,7 +204,7 @@
       ]
     },{
       "name": "Kitana ",
-      "image": "./personagens/kitana.png",
+      "image": "./characters/kitana.png",
       "moveList": [
         { "combination": "←,←,←,Y  ", "name": "Sonda de Leque:" },
         { "combination": "→,→,Y+B ", "name": "Arremesso de Leque:" },
@@ -227,7 +227,7 @@
       ]
     },{
       "name": "Kung Lao  ",
-      "image": "./personagens/kunglao.png",
+      "image": "./characters/kunglao.png",
       "moveList": [
         { "combination": "↓,↑   ", "name": "Teleporte:" },
         { "combination": "↓+X  ", "name": "Vôo de ataque:" },
@@ -249,7 +249,7 @@
       ]
     },{
       "name": "Stryker ",
-      "image": "./personagens/stryker.png",
+      "image": "./characters/stryker.png",
       "moveList": [
         { "combination": "←,→,Y ", "name": "Armas:" },
         { "combination": "↓,←,Y ", "name": "Granada alta:" },
@@ -272,7 +272,7 @@
       ]
     },{
       "name": "Liu Kang  ",
-      "image": "./personagens/liukang.png",
+      "image": "./characters/liukang.png",
       "moveList": [
         { "combination": "→,→,Y ", "name": "Bola de fogo:" },
         { "combination": "→,→,B  ", "name": "Bola de fogo baixa:" },
@@ -294,7 +294,7 @@
       ]
     },{
       "name": "Mileena ",
-      "image": "./personagens/mileena.png",
+      "image": "./characters/mileena.png",
       "moveList": [
         { "combination": "→,→,A  ", "name": "Teleporte de ataque:" },
         { "combination": "Segure Y por 2 segundos", "name": "Arremesso de adagas:" },
@@ -316,7 +316,7 @@
       ]
     },{
       "name": "Nightwolf  ",
-      "image": "./personagens/nightwolf.png",
+      "image": "./characters/nightwolf.png",
       "moveList": [
         { "combination": "↓,←,B  ", "name": "Flecha:" },
         { "combination": " ↓,→,Y", "name": "Machado:" },
@@ -339,7 +339,7 @@
       ]
     },{
       "name": "Reptile ",
-      "image": "./personagens/reptile.png",
+      "image": "./characters/reptile.png",
       "moveList": [
         { "combination": "→,→,Y ", "name": "Ácido:" },
         { "combination": "→,→,Y+B ", "name": "Bola rápida de ácido:" },
@@ -364,7 +364,7 @@
       ]
     },{
       "name": "Scorpion  ",
-      "image": "./personagens/scorpion.png",
+      "image": "./characters/scorpion.png",
       "moveList": [
         { "combination": "←,←,B ", "name": "Cordinha:" },
         { "combination": "↓,←,Y ", "name": "Teleporte:" }
@@ -383,7 +383,7 @@
       ]
     },{
       "name": "Sindel   ",
-      "image": "./personagens/sindel.png",
+      "image": "./characters/sindel.png",
       "moveList": [
         { "combination": "→,→,B", "name": "Bola de fogo" },
         { "combination": "↓,→,A", "name": "Bola de fogo no ar:" },
@@ -406,7 +406,7 @@
       ]
     },{
       "name": "Sonya",
-      "image": "./personagens/sonya.png",
+      "image": "./characters/sonya.png",
       "moveList": [
         { "combination": "↓,→,B", "name": "Bola de fogo" },
         { "combination": "↓+B+L ", "name": "Bola de fogo no ar:" },
@@ -429,7 +429,7 @@
       ]
     },{
       "name": "Sub Zero Clássico",
-      "image": "./personagens/subzero.png",
+      "image": "./characters/subzero.png",
       "moveList": [
         { "combination": "↓,→,B", "name": "Bola de Gelo" },
         { "combination": "←+B+A  ", "name": "Deslize:" },
@@ -451,7 +451,7 @@
       ]
     },{
       "name": "Sub-Zero sem Máscara ",
-      "image": "./personagens/unmasksubzero.png",
+      "image": "./characters/unmasksubzero.png",
       "moveList": [
         { "combination": "↓,→,B", "name": "Bola de Gelo" },
         { "combination": "↓,→,Y ", "name": "Gelo alto:" },
@@ -475,7 +475,7 @@
       ]
     },{
       "name": "Shang Tsung ",
-      "image": "./personagens/shangtsung.png",
+      "image": "./characters/shangtsung.png",
       "moveList": [
         { "combination": "←,←,Y ", "name": "Bola de fogo:" },
         { "combination": "←,←,→,Y", "name": "2 Bolas de fogo:" },
